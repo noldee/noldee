@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/noldee" width="120" style="border-radius: 50%"/>
   <h1>Hi 👋, I'm Noldee</h1>
   <h3>Software Developer</h3>
 
