@@ -30,12 +30,12 @@
 
 **Backend & DB**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql,postgresql,sqlite,firebase,supabase&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql,postgresql,firebase,supabase&perline=10" />
 </p>
 
 **Tools & Productivity**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,gulp,postman,vscode,vercel,netlify,notion,idea&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,github,gulp,postman,vscode,vercel,netlify,notion&perline=10" />
 </p>
 
 ---
