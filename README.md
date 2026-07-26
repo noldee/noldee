@@ -30,7 +30,7 @@
 
 **Backend & DB**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql,postgresql,firebase,supabase&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql,postgresql,supabase&perline=10" />
 </p>
 
 **Tools & Productivity**
@@ -39,23 +39,3 @@
 </p>
 
 ---
-
-## 📊 Stats
-
-<div align="center">
-<table>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noldee&theme=github_dark" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noldee&theme=github_dark" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=noldee&theme=github_dark" />
-    </td>
-  </tr>
-</table>
-</div>
