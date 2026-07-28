@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About me
 
-- 👨‍💻 All my projects are at [noldee.vercel.app](https://noldee.vercel.app/)
+- 👨‍💻 All my projects are at [vex-dev.vercel.app](https://vex-dev.vercel.app/)
 - 📫 Reach me at **socamezareswalter@gmail.com**
 - ⚡ I love programming
 
