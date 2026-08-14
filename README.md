@@ -16,7 +16,7 @@
 ## 🌱 Currently learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,java,spring&perline=10" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs&perline=10" />
 </p>
 
 ---
