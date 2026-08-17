@@ -39,3 +39,6 @@
 </p>
 
 ---
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=noldee&layout=compact&theme=dark" />
+</p>
