@@ -100,16 +100,8 @@
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=noldee&theme=holi)
+<h3>✨ Thanks for visiting my profile ✨</h3>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noldee&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-</p>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noldee&theme=holi)
-
----
-
-### ✨ Thanks for visiting my profile ✨
+</div>
