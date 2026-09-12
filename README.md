@@ -27,7 +27,7 @@
 
 ### 👩‍💻 About Me
 
-- 🔭 I'm currently working on **[rnpkill](https://github.com/noldee/rnpkill)**
+- 🔭 I'm currently working on **[rnpkill](https://github.com/noldee/rnpkill-rs)**
 - 🌱 I'm currently learning **Nest.js**
 - 👨‍💻 See my portfolio at **[vex-dev.vercel.app](https://vex-dev.vercel.app/)**
 - 📫 How to reach me: **socamezareswalter@gmail.com**
