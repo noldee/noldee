@@ -28,7 +28,7 @@
 ### 👩‍💻 About Me
 
 - 🔭 I'm currently working on **[rnpkill](https://github.com/noldee/rnpkill-rs)**
-- 🌱 I'm currently learning **Nest.js**
+- 🌱 I'm currently learning **Spring boot**
 - 👨‍💻 See my portfolio at **[vex-dev.vercel.app](https://vex-dev.vercel.app/)**
 - 📫 How to reach me: **socamezareswalter@gmail.com**
 
@@ -61,7 +61,10 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="35" alt="nestjs logo" />
+  <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=spring" height="35" alt="spring logo" />
+
 </div>
 
 <br>
